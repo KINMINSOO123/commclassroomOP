@@ -1,1 +1,1 @@
-you are stupid 
+ECHO is on.
